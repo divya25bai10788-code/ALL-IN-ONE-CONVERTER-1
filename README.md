@@ -29,37 +29,16 @@ All-in-One Converter Project
 ├── main.py         # Contains all converter functions and main loop
 └── README.md       # Project documentation
 
-
----
-
 ▶️ How to Run the Program
 
 1. Install Python (version 3.x recommended)
-
-
 2. Save your code in a file named main.py
-
-
 3. Open terminal or command prompt
-
-
 4. Run:
-
-
-
-python main.py
-
+   python main.py
 5. Choose any option from the menu and start converting!
-
-
-
-
----
-
 🧑‍💻 Code Overview
-
 Your project contains the following key functions:
-
 Function Name	Purpose
 
 length_unit_converter()	Converts meters ↔ kilometers
@@ -72,12 +51,9 @@ numerical_base_converter()	Converts between decimal, binary, octal, hex
 
 The main program uses a while True loop to repeatedly show the hub menu.
 
-
----
-
 💡 Sample Menu Interface
 
-===== THE ULTIMATE CONVERSION HUB =====
+===== ALL-IN-ONE-CONVERTER-1 =====
 1. Length Unit Converter
 2. Temperature Scale Converter
 3. Mass Unit Converter
@@ -86,9 +62,6 @@ The main program uses a while True loop to repeatedly show the hub menu.
 6. Numerical Base Converter
 7. Exit Application
 
-
----
-
 📌 Notes
 
 Currency conversion uses fixed sample rates and does NOT fetch live exchange rates.
@@ -96,10 +69,6 @@ Currency conversion uses fixed sample rates and does NOT fetch live exchange rat
 Program handles invalid menu options using basic validation.
 
 Works in any Python environment (IDLE, VS Code, Terminal, etc.)
-
-
-
----
 
 🚀 Future Enhancements (Optional)
 
@@ -112,11 +81,6 @@ GUI interface using Tkinter / PyQt
 Additional units (volume, speed, area, data storage)
 
 Error handling for invalid numeric input
-
-
-
----
-
 🏁 Conclusion
 
 This All-in-One Converter is a beginner-friendly, well-organized Python project showcasing menus, functions, loops, and basic arithmetic logic — perfect for college submission or learning purposes.
