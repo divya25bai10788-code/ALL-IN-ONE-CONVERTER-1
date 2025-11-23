@@ -1,4 +1,4 @@
-(ALL-IN-ONE-CONVERTER-1)
+(ALL-IN-ONE-CONVERTER)
 
 A Python-based multi-purpose converter that allows users to convert length, temperature, mass, time, currency, and numerical bases — all through a single interactive menu-driven interface.
 
@@ -54,7 +54,7 @@ The main program uses a while True loop to repeatedly show the hub menu.
 
 💡 Sample Menu Interface
 
-===== ALL-IN-ONE-CONVERTER-1 =====
+===== ALL-IN-ONE-CONVERTER =====
 1. Length Unit Converter
 2. Temperature Scale Converter
 3. Mass Unit Converter
